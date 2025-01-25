@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Widgets---Website--Task-/static/css/main.a63fa0cf.css",
+    "main.js": "/Widgets---Website--Task-/static/js/main.9151dc79.js",
+    "static/media/logo.svg": "/Widgets---Website--Task-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Widgets---Website--Task-/index.html",
+    "main.a63fa0cf.css.map": "/Widgets---Website--Task-/static/css/main.a63fa0cf.css.map",
+    "main.9151dc79.js.map": "/Widgets---Website--Task-/static/js/main.9151dc79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63fa0cf.css",
+    "static/js/main.9151dc79.js"
+  ]
+}
